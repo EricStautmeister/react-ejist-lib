@@ -2,8 +2,7 @@ import React from 'react';
 
 export function Icon({ src, height, width, classname, href, altText }) {
     const link = href ? href : '';
-    const alt = altText ? altText : '';
-    const classes = classname ? classname : 'icon';
+    const classes = classname ? classname : '';
     const styles = {
         height: height ? height : '50px',
         width: width ? width : '50px',
@@ -14,7 +13,7 @@ export function Icon({ src, height, width, classname, href, altText }) {
                 <img
                     loading="lazy"
                     src={src}
-                    alt={alt}
+                    alt={altText}
                     className="icon"
                     width={styles.width}
                     height={styles.height}

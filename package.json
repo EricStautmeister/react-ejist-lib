@@ -10,8 +10,23 @@
     "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
+  "keywords": [
+    "react",
+    "ejist",
+    "ui",
+    "components",
+    "react-ejist-lib"
+  ],
   "author": "Eric Stautmeister",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricStautmeister/react-ejist-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EricStautmeister/react-ejist-lib/issues"
+  },
+  "homepage": "https://github.com/EricStautmeister/react-ejist-lib#readme",
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/preset-react": "^7.16.7",
