@@ -1,7 +1,7 @@
 {
   "name": "react-ejist-lib",
   "version": "1.0.0",
-  "description": "A collection of simple react components for quick ui design.",
+  "description": "A collection of simple react components for quick ui design. Currently only Social Media Icons.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
