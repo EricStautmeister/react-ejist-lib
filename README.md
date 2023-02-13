@@ -3,7 +3,7 @@
 This package contains simple react components to build a simple ui.
 
 At the moment, the package contains barely anything useable, but in future versions there will be more to offer.
-You can help improve it by sending pull requests to [this repository](https://github.com/EricStautmeister/react-ejist-lib).
+You can help improve it by contributing to [this repository](https://github.com/EricStautmeister/react-ejist-lib).
 
 You can install this package using the following command:
 
